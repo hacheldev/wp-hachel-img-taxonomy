@@ -1,0 +1,26 @@
+.column-taxonomy_image {
+	width: 60px;
+}
+.column-taxonomy_image img {
+	width: 60px;
+	height: 60px;
+}
+
+#taxonomy_image_preview {
+	display: flex;
+	justify-content: center;
+}
+#taxonomy_image_preview img {
+	max-width: 120px;
+	height: auto;
+	margin-bottom: 15px;
+}
+#taxonomy_image_button,
+#taxonomy_image_clear {
+	display: inline-block;
+}
+
+#taxonomy_image_clear.button-secondary {
+	border-color: #ff6961;
+	color: #ff6961;
+}
