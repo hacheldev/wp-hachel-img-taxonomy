@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name: Hachel IMG Taxonomy
- * Plugin URI: #
+ * Plugin URI: https://github.com/laurenthergot/wp-hachel-img-taxonomy
  * Description: Add an image to taxonomies
  * Version: 1.0.0
- * Author: Laurent Hergot
- * Author URI: #
+ * Author: Laurent Hergot(Hachel)
+ * Author URI: https://github.com/laurenthergot/
  * License: GPL
  * Text Domain: hachelimgtaxonomy
  */
